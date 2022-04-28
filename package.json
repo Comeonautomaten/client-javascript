@@ -1,6 +1,6 @@
 {
   "name": "@comeonautomation/reportportal-client",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "description": "ReportPortal client for node.js",
   "contributors": [
     {
@@ -28,6 +28,7 @@
     "axios": "^0.18.1",
     "axios-retry": "^3.1.2",
     "glob": "^7.1.4",
+    "prettier": "^2.6.2",
     "uniqid": "^5.0.3",
     "universal-analytics": "^0.4.20"
   },
